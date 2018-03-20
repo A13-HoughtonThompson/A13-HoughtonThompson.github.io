@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deeper Into The Dungon~"
-date: 2017-12-09
+date: 2018-03-20
 excerpt: "~Are bats really that bad?~"
 tags: [ASGE, assignment, university]
 comments: true
