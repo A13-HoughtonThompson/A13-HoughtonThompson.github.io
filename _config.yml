@@ -1,10 +1,10 @@
 # Site
-title:              "Aspiring Games Technician"
-bio:                'The diary of a stressed university student striving for greatness'
+title:              "Milk and Coffee"
+bio:                'Welcome to the portfolio of my hard work'
 description:        "This blog will follow me throughout my studies and into the void beyond explaining my daily descoveries and moments of madness concerning my worrying obsession with the world of Games. Because sane never was all that fun."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Me.jpg'
+logo:               'assets/img/Soraka.jpg'
 background:         'assets/img/Backdrop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
