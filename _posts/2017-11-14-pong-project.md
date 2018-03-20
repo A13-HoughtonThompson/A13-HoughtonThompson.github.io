@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Pong"
+date: 2017-11-14
+excerpt: "~To Me To You~"
+tags: [C++, assignment, university]
+comments: true
+published: true
+project: true
+---
+
+## Pong
+
+Classical Pong was released on the 29 November 1972 by 	Allan Alcorn along side Atari as a two-dimentional game for two players for which the appearance appears to mimic table tennis. The game plays using a paddle
+per player on either side of the screen and the aim is to stop the ball from passing your own paddle and in doing so bat it past the opponents paddle thus gaining a point. The first player to
+eleven points wins the game.
+
+The original Pong game was very simplistic yet brought many hours of entertainment. The lack of technology at the time gave the game it's monochromatic appearance with minimal features on screen.
+This did however make the game simple to pick up and playable by everyone that could reach the controls. The paddles for the game would not reach to the top of the game window making the game
+slightly harder and while this was due to a bug it remained in the game due to the shortening of game play time. 
+
+While many options were open to be added to the game due to Allan Alcorns' lack of knowladge with digital circuits simple tones were added for collision and win and loss conditions.
+The original game was displayed in a local pub where after its initial success the game continued to grow larger and larger.
+
+> Timing is key ~
+
+## The Logic
+
+For this assignment we're being expected to recreate Pong to the best of our abilities. Thus I want to try and break down some of the logic.
+
+In the original pong the paddle was broken down into 8 segments determining the angle that the ball would ricochet at. For example, hitting the top end of the paddle could send the ball off at a 40 degree angle
+while the center could send the ball back at 0 degrees (in a straight line).
+      
+The balls' movement would simply code as a large switch statment reliant on the sector of the paddle it hits. Once this has been determined the movement itself would simply need to be determined by the initial movement value
+plus that sections modifier (x+y = Movement!). For each paddle a seperate switch statment will allow the difference in direction the ball will move along the X-axis.
+
+Player score would incriment when the ball enters a specific value at either end of the X-axis. This would then be displayed via text display, however in a more modern version this could be updated via sprite to make the process more
+simple. Using sprites would simply require a new switch statment changing the displayed sprite for each point gained until the score limit is reached.
+
+The devide seperating each side of the screen would be shown much like the players score with text display at a point on the screen however again I feel like using sprites would be more effective and conciced. 
+
+Player paddle movement would be controlled through the engine given to us, however it would work the same way as the balls movement though only on the Y-axis. The switch statment for the paddle movement would however rely on a key pressed variable 
+that would then determin the speed of movement.
+
+> Seems relatively simple...
+
+
+## Upgrades?
+
+> In more modern versions of Pong some power-ups can be found, these can include giving a player a second paddle to control covering more of the screen, speeding up the ball, slowing the opponent etc.
+
+If possible with the time given I hope to be able to include some of these upgrades and possibly others to my own version of Pong. 
+I'm estimating the inital game to take about a week and a half to complete alongside working with my other assignments but I suppose we'll see how that goes!
+
+> On with the show! ~
