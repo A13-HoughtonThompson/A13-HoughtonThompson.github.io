@@ -6,7 +6,6 @@ excerpt: "~Fruity~"
 tags: [C++, assignment, university]
 comments: true
 published: true
-project: false
 ---
 
 ## Snake

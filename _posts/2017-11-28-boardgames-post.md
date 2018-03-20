@@ -6,7 +6,6 @@ excerpt: "~Tetropital~"
 tags: [boardgames, group, assignment, university]
 comments: true
 published: true
-project: false
 ---
 
 ## The Original Ideas 14/11/17
