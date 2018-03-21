@@ -56,7 +56,7 @@ Of course this can cause issues with capitals and errors while typing but to mak
 
 <center>
 <figure>
-        <img src="../assets/img/Move.gif">
+        <img src="../assets/img/SpiritedSweep.gif">
 </figure>
 </center>
 
