@@ -36,7 +36,7 @@ The final game looked something a little like this:
 
 <center>
 <figure>
-        <img src="../assets/img/birdmanrun.mp4">
+        <img src="../assets/img/birdmanPlay.gif">
 </figure>
 </center>
 
@@ -47,13 +47,6 @@ The codebase looks a little more like this:
 
 <center>
 <figure>
-        <img src="../assets/img/birdmanCode.mp4">
+        <img src="../assets/img/birdmanCode.gif">
 </figure>
 </center>
-
-<center>
-<figure>
-        <img src="../assets/img/birdmanCode.mp4">
-</figure>
-</center>
-
