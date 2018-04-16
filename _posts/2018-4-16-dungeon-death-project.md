@@ -15,7 +15,7 @@ Dungeon death is an ongowing project over the last year to create a text based d
 
 <center>
 <figure>
-        <img src="../assets/img/DungeonDesign.jpg">
+        <img src="../assets/img/DungeonDesign.png">
 </figure>
 </center>
 
