@@ -15,7 +15,7 @@ classes.
 
 <center>
 <figure>
-        <img src="../assets/img/AngryBirdsSplashg.jpg">
+        <img src="../assets/img/AngryBirdsSplash.jpg">
 </figure>
 </center>
 
