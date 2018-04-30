@@ -16,7 +16,7 @@ a problem so instead of running up all my time trying to get that working I've m
 
 <center>
 <figure>
-        <img src="../assets/img/UpdateAngry.gif">
+        <img src="../assets/img/UpdateAnrgy.gif">
 </figure>
 </center>
 
